@@ -1,71 +1,65 @@
-<!-- PROFILE HEADER -->
-<div align="center">
+<!-- MAIN BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,50:312E81,100:9333EA&height=190&section=header&text=Nusrat%20Chowdhury&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=EC4899&strokeWidth=1" width="100%" />
+</p>
 
-# Nusrat Chowdhury
+<h3 align="center">CSE Graduate | Full-Stack Developer</h3>
 
-### CSE Graduate | Full-Stack Developer
+<p align="center">
+  Building practical web applications with modern technologies.
+</p>
 
-Building practical web applications with modern JavaScript technologies.
+<br/>
 
-</div>
+<!-- SKILLS -->
+<h3 align="center">Tech Stack</h3>
 
----
-
-<!-- TECHNICAL SKILLS -->
-<h2 align="center">Tech Stack</h2>
-
-<h3 align="center">Programming Languages</h3>
-
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" />
 </p>
 
-<h3 align="center">Frontend Development</h3>
-
+<p align="center"><b>Frontend Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-<h3 align="center">Backend & Database</h3>
-
+<p align="center"><b>Backend & Database</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<h3 align="center">Tools & Technologies</h3>
-
+<p align="center"><b>Tools & Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
----
+<br/>
 
 <!-- GITHUB STATISTICS -->
-<h2 align="center">GitHub Statistics</h2>
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img width="49%" src="https://www.gitskins.com/api/section/stats?username=nusratch&theme=github-dark" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=nusratch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratch&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
 </p>
 
----
+<br/>
 
-<!-- CONTRIBUTION ACTIVITY -->
-<h2 align="center">Contribution Activity</h2>
+<!-- CONTRIBUTION GRAPH -->
+<h3 align="center">Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nusratch&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nusratch&theme=tokyo-night&hide_border=true&area=true&height=180" width="85%" />
 </p>
 
----
+<br/>
 
-<!-- CONTACT -->
-<h2 align="center">Connect With Me</h2>
+<!-- CONNECT -->
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nusrat-chowdhury/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nusratchdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nusratch/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
