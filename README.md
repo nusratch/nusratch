@@ -1,6 +1,9 @@
 <!-- MAIN BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,50:312E81,100:9333EA&height=190&section=header&text=Nusrat%20Chowdhury&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=EC4899&strokeWidth=1" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10243D,50:164E75,100:079DD5&height=200&section=header&text=Nusrat%20Chowdhury&fontSize=46&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <h3 align="center">CSE Graduate | Full-Stack Developer</h3>
