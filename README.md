@@ -1,59 +1,71 @@
-# Hi, I'm Nusrat Chowdhury
+<!-- PROFILE HEADER -->
+<div align="center">
 
-### Full-Stack Developer | CSE Graduate
+# Nusrat Chowdhury
 
-I build practical web applications with modern JavaScript technologies. Currently strengthening my skills in TypeScript, React and backend development.
+### CSE Graduate | Full-Stack Developer
 
----
+Building practical web applications with modern JavaScript technologies.
 
-## Tech Stack
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-172B4D?style=flat-square&logo=javascript&logoColor=13B8C9)
-![TypeScript](https://img.shields.io/badge/TypeScript-087E9B?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-13B8C9?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-172B4D?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-087E9B?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-087E9B?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-172B4D?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13B8C9?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-C65D78?style=flat-square)
-
-**Tools & Others**
-
-![Git](https://img.shields.io/badge/Git-C65D78?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-172B4D?style=flat-square&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-087E9B?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-13B8C9?style=flat-square&logo=css3&logoColor=white)
+</div>
 
 ---
 
-## Featured Projects
+<!-- TECHNICAL SKILLS -->
+<h2 align="center">Tech Stack</h2>
 
-### Hospital Feedback App
-A mobile application for collecting maternity hospital feedback with sentiment analysis.
+<h3 align="center">Programming Languages</h3>
 
-### Doctor Appointment Manager
-A web application for managing doctor appointments and authentication.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" />
+</p>
 
-### E-book Platform
-A digital ebook sharing platform with authentication and payment integration.
+<h3 align="center">Frontend Development</h3>
 
-### Online Learning Platform
-A platform for exploring courses and learning resources.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<h3 align="center">Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
 ---
 
-## GitHub Statistics
+<!-- GITHUB STATISTICS -->
+<h2 align="center">GitHub Statistics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nus ratch&show_icons=true&bg_color=172B4D&title_color=13B8C9&text_color=F4F8FA&icon_color=C65D78)
+<p align="center">
+  <img width="49%" src="https://www.gitskins.com/api/section/stats?username=nusratch&theme=github-dark" />
+</p>
 
 ---
 
-## Connect With Me
+<!-- CONTRIBUTION ACTIVITY -->
+<h2 align="center">Contribution Activity</h2>
 
-[LinkedIn](https://linkedin.com/in/nus ratch)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nusratch&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+<!-- CONTACT -->
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nusrat-chowdhury/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nusratchdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
